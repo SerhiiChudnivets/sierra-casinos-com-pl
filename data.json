@@ -5,7 +5,7 @@
   "url": "sierra-casinos.com.pl",
   "template": "tupchiy",
   "language_code": "pl",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -386,9 +386,9 @@
       "question": "Czy w Sierra Casino Online mogę grać na telefonie?"
     }
   ],
-  "_generated_at": "2026-10-06T10:30:34.675Z",
+  "_generated_at": "2026-10-06T13:47:19.310Z",
   "_version": "1.0.0",
   "content_alt": "siera bonus",
-  "_last_deploy": "2026-10-06T10:30:35.343Z",
-  "_deploy_trigger": "aby9dj"
+  "_last_deploy": "2026-10-06T13:47:19.924Z",
+  "_deploy_trigger": "uakit"
 }
