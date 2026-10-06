@@ -24,14 +24,14 @@
       "heroSubtitle": "KAŻDY OBRÓT TO KROK DO SZCZYTU",
       "heroBadge": "Sierra Casino – wejdź na wyższy poziom gry",
       "ctaText": "ODBIERZ BONUS",
-      "tagline": "100% do 8 000 zł + 200 Darmowe Spiny + 80 zł Darmowy zakład",
+      "tagline": "Otrzymaj do 3000 € + 600 FS",
       "heroImage": "/uploads/c1823ea89f51ff83c1482353b4bcc695.webp",
       "template": "homepage",
       "isHomepage": false,
       "order": 0,
       "lang": "pl-PL",
       "faqTitle": "FAQ",
-      "popupText": "100% do 8 000 zł + 200 Darmowe Spiny + 80 zł Darmowy zakład",
+      "popupText": "Otrzymaj do 3000 € + 600 FS",
       "popupLogo": "/uploads/f586bc701fbff60e39ee6c05e479ca01.svg",
       "sections": null,
       "slots": [
@@ -68,29 +68,29 @@
         {
           "link": "/play/",
           "logo": "/uploads/84b8bb6efb01f9fe942a68455c4a62db.webp",
-          "name": "Pakiet Bonus Powitalny: do 3000€ + 600FS",
-          "Name": "Pakiet Bonus Powitalny: do 3000€ + 600FS",
+          "name": "Powitalny: do 12900 zł + 600 FS",
+          "Name": "Powitalny: do 12900 zł + 600 FS",
           "logo_alt": "Welcome Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/ac7e9cfbff64af271c1b585bbbb96a1d.webp",
-          "name": "Odzyskaj swoje straty: Tygodniowy cashback 2000€",
-          "Name": "Odzyskaj swoje straty: Tygodniowy cashback 2000€",
+          "name": "Do straty: cashback 8600 zł",
+          "Name": "Do straty: cashback 8600 zł",
           "logo_alt": "Reload Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/ecc8727428ea72bf8a936a083ccaebe8.webp",
-          "name": "Cotygodniowy bonus sportowy: do 1000€ co tydzień",
-          "Name": "Cotygodniowy bonus sportowy: do 1000€ co tydzień",
+          "name": "Sportowy: do 4300 zł co tydzień",
+          "Name": "Sportowy: do 4300 zł co tydzień",
           "logo_alt": "Weekly Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/e8e32e9f5bba4b2b960098a8e5b37406.webp",
-          "name": "Większe nagrody: Tygodniowy bonus do 1000€",
-          "Name": "Większe nagrody: Tygodniowy bonus do 1000€",
+          "name": "Tygodniowy bonus: do 4300 zł",
+          "Name": "Tygodniowy bonus: do 4300 zł",
           "logo_alt": "Cashback Bonus"
         }
       ],
@@ -102,7 +102,7 @@
       "updatedAt": {},
       "globalSlotSet": null,
       "globalReviewSet": null,
-      "popup_text": "100% do 8 000 zł + 200 Darmowe Spiny + 80 zł Darmowy zakład",
+      "popup_text": "Otrzymaj do 3000 € + 600 FS",
       "popup_logo": "/uploads/f586bc701fbff60e39ee6c05e479ca01.svg",
       "hero_title": "Sierra Casino Online ",
       "hero_subtitle": "KAŻDY OBRÓT TO KROK DO SZCZYTU",
@@ -172,10 +172,10 @@
   "hero_subtitle": "KAŻDY OBRÓT TO KROK DO SZCZYTU",
   "hero_badge": "Sierra Casino – wejdź na wyższy poziom gry",
   "cta_text": "ODBIERZ BONUS",
-  "tagline": "100% do 8 000 zł + 200 Darmowe Spiny + 80 zł Darmowy zakład",
+  "tagline": "Otrzymaj do 3000 € + 600 FS",
   "features_list": null,
   "footer_text": "© 2026. Sierra Casino. All rights reserved",
-  "popup_text": "100% do 8 000 zł + 200 Darmowe Spiny + 80 zł Darmowy zakład",
+  "popup_text": "Otrzymaj do 3000 € + 600 FS",
   "faq_title": "FAQ",
   "login_text": "Zaloguj się",
   "register_text": "Zarejestruj się",
@@ -337,29 +337,29 @@
     {
       "link": "/play/",
       "logo": "/uploads/84b8bb6efb01f9fe942a68455c4a62db.webp",
-      "name": "Pakiet Bonus Powitalny: do 3000€ + 600FS",
-      "Name": "Pakiet Bonus Powitalny: do 3000€ + 600FS",
+      "name": "Powitalny: do 12900 zł + 600 FS",
+      "Name": "Powitalny: do 12900 zł + 600 FS",
       "logo_alt": "Welcome Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/ac7e9cfbff64af271c1b585bbbb96a1d.webp",
-      "name": "Odzyskaj swoje straty: Tygodniowy cashback 2000€",
-      "Name": "Odzyskaj swoje straty: Tygodniowy cashback 2000€",
+      "name": "Do straty: cashback 8600 zł",
+      "Name": "Do straty: cashback 8600 zł",
       "logo_alt": "Reload Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/ecc8727428ea72bf8a936a083ccaebe8.webp",
-      "name": "Cotygodniowy bonus sportowy: do 1000€ co tydzień",
-      "Name": "Cotygodniowy bonus sportowy: do 1000€ co tydzień",
+      "name": "Sportowy: do 4300 zł co tydzień",
+      "Name": "Sportowy: do 4300 zł co tydzień",
       "logo_alt": "Weekly Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/e8e32e9f5bba4b2b960098a8e5b37406.webp",
-      "name": "Większe nagrody: Tygodniowy bonus do 1000€",
-      "Name": "Większe nagrody: Tygodniowy bonus do 1000€",
+      "name": "Tygodniowy bonus: do 4300 zł",
+      "Name": "Tygodniowy bonus: do 4300 zł",
       "logo_alt": "Cashback Bonus"
     }
   ],
@@ -386,9 +386,9 @@
       "question": "Czy w Sierra Casino Online mogę grać na telefonie?"
     }
   ],
-  "_generated_at": "2026-10-06T10:20:34.638Z",
+  "_generated_at": "2026-10-06T10:30:34.675Z",
   "_version": "1.0.0",
   "content_alt": "siera bonus",
-  "_last_deploy": "2026-10-06T10:20:35.211Z",
-  "_deploy_trigger": "m44xs"
+  "_last_deploy": "2026-10-06T10:30:35.343Z",
+  "_deploy_trigger": "aby9dj"
 }
